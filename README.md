@@ -1,7 +1,6 @@
 # Hauptspeißen
 
 # Dessert
-## Pfanne
 ## Backen
 ### Mehlspeißen
 #### Classic Brownies
@@ -29,7 +28,7 @@
 10. 25 Minuten Backen bis der Teig schön aufgegangen ist.
 11. Teig mit 2 Löffeln zerreißen.
 12. Mit Puderzucker (und- oder anderen Toppings) servieren.
-
+## Pfanne
 ### Mehlspeißen
 #### Wiener Kaiserschmarrn
 ##### Zutaten
